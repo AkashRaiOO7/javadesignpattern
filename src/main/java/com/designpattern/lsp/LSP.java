@@ -1,4 +1,4 @@
-package com.designpattern.ocp;
+package com.designpattern.lsp;
 
 class Rectangle {
     public int width, height;
